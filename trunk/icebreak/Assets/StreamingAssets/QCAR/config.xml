@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget size="623.7817 640" name="NTUST" />
+    <ImageTarget size="254 169.5466" name="ice" />
+    <ImageTarget size="499.9122 640" name="AR" />
+    <ImageTarget size="639.7313 819" name="MeFlowChart" />
+  </Tracking>
+</QCARConfig>
